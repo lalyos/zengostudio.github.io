@@ -4,8 +4,11 @@ date: 2017-10-08T18:01:27+02:00
 draft: false
 ---
 
-Something completely differnet:
+# Tanfolyam1
 
-- one
-- two
-- three
+Itt megtanulhatod:
+- szoknya
+- nadrag
+- melleny
+
+GYertek!
